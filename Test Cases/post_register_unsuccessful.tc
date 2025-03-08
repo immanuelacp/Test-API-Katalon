@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>post_register_unsuccessful</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43c09467-fd1c-43c3-b1b2-8ac9b9cc26f5</testCaseGuid>
+</TestCaseEntity>
